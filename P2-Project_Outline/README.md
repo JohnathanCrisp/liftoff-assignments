@@ -7,12 +7,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My Application will provide a point of sales system for users to sell products to customers. It's based around a restaurant environment but could be used for more.
 ### Features
-Include Features here
+User logins for companies
+User logins for employees
+Update, Create, and Remove Buttons for varius products sold
+Record total sales for company daily as well as each seperate employee
+Add and recprd sales tax for each transaction
 ### Technologies
-Include Technologies here
+C#
+SQL
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to make buttons that can update after each push
+How to make a website that doesn't update after pushing a button
+How to make user logins inside of user logins
+How to design that page how I would like it to look.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/HRx13T6g/liftoffproject
