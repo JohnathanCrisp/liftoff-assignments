@@ -8,10 +8,10 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-
+Included in Assignment
 ### Project Tracker
 
-My Trello is ruined, cannot get access to it
+https://trello.com/b/GQfLFJCn/lift-off-project
 
 ### Project Repo Link
 
